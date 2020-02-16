@@ -24,6 +24,15 @@ console.log('Suma de cubos: ' + sumCubos(1, 5, 9));
 // Crear una funcion que me retorne el tipo de valor entregado, utilizar 
 // la función e imprimir los distintos tipos de JS.
 // --------------------------------------------------------------------------
-
+/*
 const type = (value) => typeof(value);
 console.log(type(23))
+*/
+
+// (4) ----------------------------------------------------------------------
+// Crear una función que reciba n cantidad de argumentos 
+// y los sume ( utilizar parametros rest)
+// --------------------------------------------------------------------------
+
+const sumTot = (...rest) => rest.reduce((a, b) => a + b);
+console.log(sumTot(3,5,3,1,10));
