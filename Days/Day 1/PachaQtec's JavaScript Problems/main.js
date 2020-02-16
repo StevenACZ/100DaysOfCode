@@ -33,6 +33,17 @@ console.log(type(23))
 // Crear una función que reciba n cantidad de argumentos 
 // y los sume ( utilizar parametros rest)
 // --------------------------------------------------------------------------
-
+/*
 const sumTot = (...rest) => rest.reduce((a, b) => a + b);
 console.log(sumTot(3,5,3,1,10));
+*/
+
+// (5) ----------------------------------------------------------------------
+// Crear una función que reciba una matriz de valores y filtre los 
+// valores que no son string
+// --------------------------------------------------------------------------
+
+const isNotString = (element) => typeof element !== 'string' ? true: false;
+
+const noString = (arr) =>  arr.filter(isNotString);
+console.log(noString(['steven', 123 , 'designer', 902, true, false, 10, 'jose']));
