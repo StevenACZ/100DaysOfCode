@@ -17,4 +17,4 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## My Progress
-|  [Day 1]()  |  Day 2  |  Day 3  |  day 4  |  Day 5  |  day 6 |
+|  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2]  |  Day 3  |  day 4  |  Day 5  |  day 6 |
