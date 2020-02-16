@@ -103,7 +103,7 @@ console.log(findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]));
 // charIndex("circumlocution", "c") ➞ [0, 8]
 // The first "c" has index 0, the last "c" has index 8.
 // --------------------------------------------------------------------------
-
+/*
 const charIndex = (sentence, letter) => {
   let result = [];
   result.push(sentence.indexOf(letter));
@@ -112,3 +112,19 @@ const charIndex = (sentence, letter) => {
 }
 
 console.log(charIndex('circumlocution', 'c'));
+*/
+
+// (10) ----------------------------------------------------------------------
+// Escriba una función que convierta un objeto en una matriz, 
+// donde cada elemento representa un par clave-valor.
+// --------------------------------------------------------------------------
+
+let obj = {
+  a: 1,
+  b: 2,
+  c: 3,
+  d: 4,
+  e: 5 
+}
+
+console.log(Object.entries(obj));
