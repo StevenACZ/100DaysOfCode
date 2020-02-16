@@ -141,7 +141,7 @@ console.log(Object.entries(obj));
 //   { name: "Martin",  age: 16, budget: 2700 }
 // ]) ➞ 65700
 // --------------------------------------------------------------------------
-
+/*
 const getBudgets = (arr) => {
   let sumTot = 0;
   arr.forEach((e, index) => {
@@ -154,6 +154,32 @@ console.log(getBudgets([
   { name: "John", age: 21, budget: 23000 },
   { name: "Steve",  age: 32, budget: 40000 },
   { name: "Martin",  age: 16, budget: 2700 }
+]));
+*/
+
+// (12) ----------------------------------------------------------------------
+// Cree una función que tome una matriz de estudiantes y devuelva 
+// una matriz de nombres de estudiantes.
+// getStudentNames([
+//   { name: "Steve" },
+//   { name: "Mike" },
+//   { name: "John" }
+// ]) ➞ ["Becky", "John", "Steve"]
+
+// --------------------------------------------------------------------------
+
+const getStudentNames = (arr) => {
+  let studentNames = [];
+  arr.forEach(element => {
+    studentNames.push(element['name']);
+  });
+  return studentNames;
+}
+
+console.log(getStudentNames([
+  { name: "Steve" },
+  { name: "Mike" },
+  { name: "John" }
 ]));
 
 
