@@ -69,10 +69,28 @@ console.log(minMaxNumbers([50,1400,500,100]));
 // y devuelva una cadena en forma de un número de teléfono.
 // formatPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) ➞ "(123) 456-7890"
 // --------------------------------------------------------------------------
-
+/*
 const formatPhoneNumber = (arr) => {
   let nums = [];
   nums = arr.filter((value) => value >= 0 && value <= 9);
   return `(${nums[0]}${nums[1]}${nums[2]}) ${nums[3]}${nums[4]}${nums[5]}-${nums[6]}${nums[7]}${nums[8]}${nums[9]}`;
 }
 console.log(formatPhoneNumber([1,2,3,4,5,6,7,8,9,0, 100, 150]));
+*/
+
+// (8) ----------------------------------------------------------------------
+// Cree una función que tome una matriz de matrices con números. 
+// Devuelve una nueva matriz (única) con el mayor número de cada uno.
+// findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]) ➞ [7, 90, 2]
+// --------------------------------------------------------------------------
+/*
+const findLargestNums = (arr) => {
+  let max = [];
+  for (var i = 0; i < arr.length; i++) {
+    max.push(Math.max(...arr[i]));
+  }
+  return max;
+}
+
+console.log(findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]));
+*/
