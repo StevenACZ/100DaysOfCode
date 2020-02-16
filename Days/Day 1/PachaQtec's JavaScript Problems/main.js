@@ -83,7 +83,7 @@ console.log(formatPhoneNumber([1,2,3,4,5,6,7,8,9,0, 100, 150]));
 // Devuelve una nueva matriz (única) con el mayor número de cada uno.
 // findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]) ➞ [7, 90, 2]
 // --------------------------------------------------------------------------
-/*
+
 const findLargestNums = (arr) => {
   let max = [];
   for (var i = 0; i < arr.length; i++) {
@@ -93,4 +93,3 @@ const findLargestNums = (arr) => {
 }
 
 console.log(findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]));
-*/
