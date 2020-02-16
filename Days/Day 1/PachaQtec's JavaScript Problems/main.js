@@ -42,8 +42,23 @@ console.log(sumTot(3,5,3,1,10));
 // Crear una función que reciba una matriz de valores y filtre los 
 // valores que no son string
 // --------------------------------------------------------------------------
-
+/*
 const isNotString = (element) => typeof element !== 'string' ? true: false;
 
 const noString = (arr) =>  arr.filter(isNotString);
 console.log(noString(['steven', 123 , 'designer', 902, true, false, 10, 'jose']));
+*/
+
+// (6) ----------------------------------------------------------------------
+// Cree una función que tome una matriz de números y devuelva los
+// números mínimos y máximos, en ese orden.
+// minMax([1, 2, 3, 4, 5]) ➞ [1, 5]
+// --------------------------------------------------------------------------
+
+const minMaxNumbers = (arr) => {
+  let minMax = [];
+  minMax.push(Math.min(...arr));
+  minMax.push(Math.max(...arr));
+  return minMax;
+}
+console.log(minMaxNumbers([50,1400,500,100]));
