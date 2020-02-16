@@ -13,9 +13,17 @@ console.log(hi('Steven', 'Zaa', 18));
 // sumOfCubes(1, 5, 9) ➞ 855
 // Since 1^3 + 5^3 + 9^3 = 1 + 125 + 729 = 855
 // --------------------------------------------------------------------------
-
+/*
 const sumCubos = (a, b, c) => {
   return a**3 + b**3 + c**3; 
 };
 console.log('Suma de cubos: ' + sumCubos(1, 5, 9));
+*/
 
+// (3) ----------------------------------------------------------------------
+// Crear una funcion que me retorne el tipo de valor entregado, utilizar 
+// la función e imprimir los distintos tipos de JS.
+// --------------------------------------------------------------------------
+
+const type = (value) => typeof(value);
+console.log(type(23))
