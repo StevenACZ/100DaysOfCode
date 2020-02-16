@@ -275,7 +275,7 @@ console.log(diffMaxMin([10, 4, 1, 4, -10, -50, 32, 21]));
 
 // filterList([1, 2, 3, "x", "y", 10]) ➞ [1, 2, 3, 10]
 // --------------------------------------------------------------------------
-
+/*
 const filterList = (arr) => {
   let newArr = [];
   arr.forEach(e => {
@@ -286,4 +286,22 @@ const filterList = (arr) => {
   return newArr;
 }
 console.log(filterList([1, 2, 3, "x", "y", 10]));
+*/
 
+// (19) ----------------------------------------------------------------------
+// Cree una función que tome dos argumentos (elemento, tiempos). 
+// El primer argumento (elemento) es el elemento que necesita repetirse,
+// mientras que el segundo argumento (veces) es la cantidad de veces que
+// se debe repetir el elemento. Devuelve el resultado en una matriz.
+
+// repeat(13, 5) ➞ [13, 13, 13, 13, 13]
+// --------------------------------------------------------------------------
+
+const repeat = (e, times) => {
+  let newArr = [];
+  for (var i = 0; i < times; i++) {
+    newArr.push(e);
+  }
+  return newArr;
+}
+console.log(repeat(13, 5));
