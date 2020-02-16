@@ -339,7 +339,7 @@ console.log("apples and bananas".vreplace("u"));
 
 // findNemo("I am finding Nemo !") ➞ "I found Nemo at 4!"
 // --------------------------------------------------------------------------
-
+/*
 const findNemo = (sentence) => {
   let splitSentence = sentence.split(" ");
   splitSentence.forEach((e, index) => {
@@ -349,3 +349,15 @@ const findNemo = (sentence) => {
   });
 }
 findNemo('I am finding Nemo !');
+*/
+
+// (22) ----------------------------------------------------------------------
+// Cree una función que capitalice la última letra de cada palabra.
+
+// capLast("hello") ➞ "hellO"
+// --------------------------------------------------------------------------
+
+const capLast = (sentence) => {
+  return sentence.substring(0, sentence.length - 1) + sentence[sentence.length - 1].toUpperCase();
+}
+console.log(capLast('hello'));
