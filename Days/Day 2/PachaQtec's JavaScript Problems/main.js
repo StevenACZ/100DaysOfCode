@@ -83,7 +83,7 @@ console.log(formatPhoneNumber([1,2,3,4,5,6,7,8,9,0, 100, 150]));
 // Devuelve una nueva matriz (única) con el mayor número de cada uno.
 // findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]) ➞ [7, 90, 2]
 // --------------------------------------------------------------------------
-
+/*
 const findLargestNums = (arr) => {
   let max = [];
   for (var i = 0; i < arr.length; i++) {
@@ -91,5 +91,24 @@ const findLargestNums = (arr) => {
   }
   return max;
 }
-
 console.log(findLargestNums([[4, 2, 7, 1], [20, 70, 40, 90], [1, 2, 0]]));
+*/
+
+// (9) ----------------------------------------------------------------------
+// Dada una palabra, escriba una función que devuelva el 
+// primer índice y el último índice de un carácter.
+// charIndex("hello", "l") ➞ [2, 3]
+// The first "l" has index 2, the last "l" has index 3.
+
+// charIndex("circumlocution", "c") ➞ [0, 8]
+// The first "c" has index 0, the last "c" has index 8.
+// --------------------------------------------------------------------------
+
+const charIndex = (sentence, letter) => {
+  let result = [];
+  result.push(sentence.indexOf(letter));
+  result.push(sentence.lastIndexOf(letter));
+  return result;
+}
+
+console.log(charIndex('circumlocution', 'c'));
