@@ -3,7 +3,7 @@
 **100DaysOfCode is a challenge/community, where you publicly commit to code for 1 hour for the next 100 days.**
 
 #### Start Date
-Febrary 15th, 2020.
+February 15th, 2020.
 
 ## Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
