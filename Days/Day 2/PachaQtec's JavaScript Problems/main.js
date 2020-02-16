@@ -260,10 +260,30 @@ console.log(countdown(5));
 // diffMaxMin([10, 4, 1, 4, -10, -50, 32, 21]) ➞ 82
 // Smallest number is -50, biggest is 32.
 // --------------------------------------------------------------------------
-
+/*
 const diffMaxMin = (arr) => {
   let max = Math.max(...arr);
   let min = Math.min(...arr);
   return `Smallest number is ${min}, biggest is ${max}, the difference is ${max - min}.`;
 }
 console.log(diffMaxMin([10, 4, 1, 4, -10, -50, 32, 21]));
+*/
+
+// (18) ----------------------------------------------------------------------
+// Cree una función que filtre las cadenas de una matriz y 
+// devuelva una nueva matriz que solo contenga enteros.
+
+// filterList([1, 2, 3, "x", "y", 10]) ➞ [1, 2, 3, 10]
+// --------------------------------------------------------------------------
+
+const filterList = (arr) => {
+  let newArr = [];
+  arr.forEach(e => {
+    if (typeof e === 'number') {
+      newArr.push(e);
+    } 
+  });
+  return newArr;
+}
+console.log(filterList([1, 2, 3, "x", "y", 10]));
+
