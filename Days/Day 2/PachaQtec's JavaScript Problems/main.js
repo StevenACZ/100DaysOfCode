@@ -117,8 +117,9 @@ console.log(charIndex('circumlocution', 'c'));
 // (10) ----------------------------------------------------------------------
 // Escriba una función que convierta un objeto en una matriz, 
 // donde cada elemento representa un par clave-valor.
+// toArray({ a: 1, b: 2 }) ➞ [["a", 1], ["b", 2]]
 // --------------------------------------------------------------------------
-
+/*
 let obj = {
   a: 1,
   b: 2,
@@ -128,3 +129,32 @@ let obj = {
 }
 
 console.log(Object.entries(obj));
+*/
+
+// (11) ----------------------------------------------------------------------
+// Cree la función que toma una matriz con objetos y devuelve la suma 
+// de los presupuestos de las personas.
+
+// getBudgets([
+//   { name: "John", age: 21, budget: 23000 },
+//   { name: "Steve",  age: 32, budget: 40000 },
+//   { name: "Martin",  age: 16, budget: 2700 }
+// ]) ➞ 65700
+// --------------------------------------------------------------------------
+
+const getBudgets = (arr) => {
+  let sumTot = 0;
+  arr.forEach((e, index) => {
+    sumTot += arr[index]['budget'];
+  });
+  return sumTot;
+}
+
+console.log(getBudgets([
+  { name: "John", age: 21, budget: 23000 },
+  { name: "Steve",  age: 32, budget: 40000 },
+  { name: "Martin",  age: 16, budget: 2700 }
+]));
+
+
+
