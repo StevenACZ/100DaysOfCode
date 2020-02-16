@@ -296,7 +296,7 @@ console.log(filterList([1, 2, 3, "x", "y", 10]));
 
 // repeat(13, 5) ➞ [13, 13, 13, 13, 13]
 // --------------------------------------------------------------------------
-
+/*
 const repeat = (e, times) => {
   let newArr = [];
   for (var i = 0; i < times; i++) {
@@ -305,3 +305,28 @@ const repeat = (e, times) => {
   return newArr;
 }
 console.log(repeat(13, 5));
+*/
+
+// (20) ----------------------------------------------------------------------
+// Escriba una función, .vreplace () que extienda el prototipo de cadena 
+// reemplazando todas las vocales en una cadena con una vocal especificada.
+
+// "apples and bananas".vreplace("u") ➞ "upplus und bununus"
+// --------------------------------------------------------------------------
+
+function isVowel(char) {
+  return 'aeiou'.includes(char);
+}
+
+String.prototype.vreplace = function (char) {
+  let newString = '';
+  for (var i = 0; i < this.length; i++) {
+    if (isVowel(this[i])) {
+      newString += char;
+    } else {
+      newString += this[i];
+    }
+  }
+  return newString;
+};
+console.log("apples and bananas".vreplace("u"));
