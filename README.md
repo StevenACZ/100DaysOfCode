@@ -17,9 +17,9 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 2 |**
+**| DAY 3 |**
 
-Today I finished all the problems yesterday, now I will continue the JavaScript Algorithms and Data Structures on freeCodeCamp to get the certification :D 
+Today I finished the freeCodeCamp's ES6 course! 
 
 ## My Progress
 |  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  Day 3  |  day 4  |  Day 5  |  day 6 |
