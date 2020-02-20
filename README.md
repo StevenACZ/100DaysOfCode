@@ -17,9 +17,9 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 4 |**
+**| DAY 5 |**
 
-I'm starting the Advanced CSS and Sass course by @jonasschmedtman👨‍💻 The best CSS course I've ever seen. 👏😁
+I'm starting the Advanced CSS and Sass course by @jonasschmedtman👨‍💻 The best CSS course I've ever seen. 👏😁 x2
 
 ## My Progress
 |  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 3](https://github.com/StevenACZ/Movi.es)  |  [day 4](https://stevenacz.github.io/Trillo/)  |  Day 5  |  day 6 |
