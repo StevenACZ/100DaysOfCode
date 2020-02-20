@@ -36,3 +36,19 @@
 
 **Link(s) to work**: [Trillo](https://stevenacz.github.io/Trillo/?#)
 
+### Day 5: February 19, 2020
+
+**Today's Progress**: I am advancing the project Trillo web page, I finished the header! :) 👌 x2
+
+**Thoughts**: I feel good. x2
+
+**Link(s) to work**: [Trillo](https://stevenacz.github.io/Trillo/?#)
+
+### Day 6: February 20, 2020
+
+**Today's Progress**: ????
+
+**Thoughts**: I feel good. x3
+
+**Link(s) to work**: [Trillo](https://stevenacz.github.io/Trillo/?#)
+
