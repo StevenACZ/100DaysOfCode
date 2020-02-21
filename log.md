@@ -46,9 +46,17 @@
 
 ### Day 6: February 20, 2020
 
-**Today's Progress**: ????
+**Today's Progress**: I work in a portfolio project. I haven't finished it yet.
 
 **Thoughts**: I feel good. x3
 
-**Link(s) to work**: [Trillo](https://stevenacz.github.io/Trillo/?#)
+**Link(s) to work**: [My portfolio project](https://github.com/StevenACZ/Portfolio_Dev)
+
+### Day 7: February 21, 2020
+
+**Today's Progress**: I work in a portfolio project. I finished it!!!.
+
+**Thoughts**: I feel good. x4
+
+**Link(s) to work**: [My portfolio project](https://github.com/StevenACZ/Portfolio_Dev)
 
