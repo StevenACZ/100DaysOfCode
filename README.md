@@ -17,7 +17,7 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 5 |**
+**| DAY 6 |**
 
  I'm working in a portfolio project. I haven't finished it yet.
 
