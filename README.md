@@ -17,7 +17,7 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY  |**
+**| DAY 8 |**
 
  Today I did a calculator with HTML/CSS/SASS/JAVASCRIPT. I finished it!! :D
 
