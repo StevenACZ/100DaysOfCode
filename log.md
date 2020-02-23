@@ -60,3 +60,11 @@
 
 **Link(s) to work**: [My portfolio project](https://github.com/StevenACZ/Portfolio_Dev)
 
+### Day 8: February 22, 2020
+
+**Today's Progress**: Today I did a calculator with HTML/CSS/SASS/JAVASCRIPT. I finished it!! :D
+
+**Thoughts**: I feel good. x5
+
+**Link(s) to work**: [Calculator](https://github.com/StevenACZ/CalculatorApp)
+
