@@ -17,9 +17,9 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 7 |**
+**| DAY  |**
 
- I was working in a portfolio project. I finished it!! :D
+ Today I did a calculator with HTML/CSS/SASS/JAVASCRIPT. I finished it!! :D
 
 ## My Progress
-|  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 3](https://github.com/StevenACZ/Movi.es)  |  [day 4](https://stevenacz.github.io/Trillo/)  |  Day 5  |  Day 6 | [Day 7](https://github.com/StevenACZ/Portfolio_Dev) | 
+|  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 3](https://github.com/StevenACZ/Movi.es)  |  [day 4](https://stevenacz.github.io/Trillo/)  |  Day 5  |  Day 6 | [Day 7](https://github.com/StevenACZ/Portfolio_Dev) | [Day 8](https://github.com/StevenACZ/CalculatorApp)
