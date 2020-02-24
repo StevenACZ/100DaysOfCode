@@ -68,3 +68,10 @@
 
 **Link(s) to work**: [Calculator](https://github.com/StevenACZ/CalculatorApp)
 
+### Day 9: February 23, 2020
+
+**Today's Progress**: Today I was doing a To-doList App with JS but I didn't finished it yet, I hope to finish it tomorrow 🙌
+
+**Thoughts**: I feel good. x6
+
+**Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
