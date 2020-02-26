@@ -83,3 +83,11 @@
 **Thoughts**: I feel well
 
 **Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
+
+### Day 11: February 25, 2020
+
+**Today's Progress**: Today I finished the design of the website, tomorrow I going to do the functionality. 🤔
+
+**Thoughts**: I feel well x2
+
+**Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
