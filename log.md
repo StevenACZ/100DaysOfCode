@@ -91,3 +91,11 @@
 **Thoughts**: I feel well x2
 
 **Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
+
+### Day 12: February 26, 2020
+
+**Today's Progress**: I finished the Todo list app!!
+
+**Thoughts**: I feel well x3
+
+**Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
