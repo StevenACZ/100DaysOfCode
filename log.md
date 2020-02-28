@@ -99,3 +99,11 @@
 **Thoughts**: I feel well x3
 
 **Link(s) to work**: [To-doList App](https://github.com/StevenACZ/To-doList)
+
+### Day 13: February 27, 2020
+
+**Today I didn't nothing important, I just studied JavaScript DOM event.
+
+**Thoughts**: I feel well x4
+
+**Link(s) to work**: Nothing...
