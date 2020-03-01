@@ -17,9 +17,11 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 16 |**
+**| DAY 17 |**
 
-Today I didn't nothing important, I just studied JavaScript DOM event. x4
+Today I didn't nothing important, I just studied JavaScript DOM event. x5
 
 ## My Progress
-|  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 3](https://github.com/StevenACZ/Movi.es)  |  [day 4](https://stevenacz.github.io/Trillo/)  |  Day 5  |  Day 6 | [Day 7](https://github.com/StevenACZ/Portfolio_Dev) | [Day 8](https://github.com/StevenACZ/CalculatorApp) | [Day 9](https://github.com/StevenACZ/To-doList) | [Day 10](https://github.com/StevenACZ/To-doList) | [Day 11](https://github.com/StevenACZ/To-doList) | [Day 12](https://github.com/StevenACZ/To-doList) | Day 13 | Day 14 | Day 15 | Day 16 |
+|  [Day 1](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%201/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 2](https://github.com/StevenACZ/100DaysOfCode/blob/master/Days/Day%202/PachaQtec's%20JavaScript%20Problems/main.js)  |  [Day 3](https://github.com/StevenACZ/Movi.es)  |  [day 4](https://stevenacz.github.io/Trillo/)  |  Day 5  |  Day 6 | [Day 7](https://github.com/StevenACZ/Portfolio_Dev) | [Day 8](https://github.com/StevenACZ/CalculatorApp) | [Day 9](https://github.com/StevenACZ/To-doList) | [Day 10](https://github.com/StevenACZ/To-doList) | [Day 11](https://github.com/StevenACZ/To-doList) | [Day 12](https://github.com/StevenACZ/To-doList) | Day 13 | Day 14 | Day 15 
+
+| Day 16 | Day 17 |
