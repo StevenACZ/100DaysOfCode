@@ -155,3 +155,11 @@
 **Thoughts**: I feel well x10
 
 **Link(s) to work**: Nothing...
+
+### Day 20: March 4, 2020
+
+**Today I didn't nothing important, I just studied JavaScript DOM event. x8
+
+**Thoughts**: I feel well x11
+
+**Link(s) to work**: Nothing...
