@@ -163,3 +163,11 @@
 **Thoughts**: I feel well x11
 
 **Link(s) to work**: Nothing...
+
+### Day 21: March 5, 2020
+
+**Today Today I did a Accordion component and a dropdown button! 😏👍😎
+
+**Thoughts**: I feel well x11
+
+**Link(s) to work**: Nothing...
