@@ -171,3 +171,11 @@
 **Thoughts**: I feel well x11
 
 **Link(s) to work**: Nothing...
+
+### Day 22: March 6, 2020
+
+**Today Today I'm learing more JS :D
+
+**Thoughts**: I'm confused
+
+**Link(s) to work**: Nothing...
