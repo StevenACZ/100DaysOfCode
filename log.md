@@ -195,3 +195,11 @@
 **Thoughts**: I'm confused
 
 **Link(s) to work**: Nothing...
+
+### Day 25: March 9, 2020
+
+**Today Today I'm learing more JS :D
+
+**Thoughts**: I'm confused
+
+**Link(s) to work**: Nothing...
