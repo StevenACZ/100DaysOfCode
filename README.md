@@ -26,5 +26,5 @@ I'm learning JS :)
 
 | [Day 11](https://github.com/StevenACZ/To-doList) | [Day 12](https://github.com/StevenACZ/To-doList) | Day 13 | Day 14 | Day 15 | Day 16 | Day 17 | Day 18 | Day 19 | Day 20 |
 
-| [Day 21](https://github.com/StevenACZ/UI/tree/master/Accordion) | Day 22 | Day 23 | Day 24 | Day 25 | 
+| [Day 21](https://github.com/StevenACZ/UI/tree/master/Accordion) | Day 22 | Day 23 | Day 24 | Day 25 | Day 26 |
  
