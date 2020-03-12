@@ -211,3 +211,11 @@
 **Thoughts**: I'm confused
 
 **Link(s) to work**: Nothing...
+
+### Day 27: March 11, 2020
+
+**Today I finished a CRUD Application made with JS! :D
+
+**Thoughts**: I'm confused
+
+**Link(s) to work**: Nothing...
