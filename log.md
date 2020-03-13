@@ -219,3 +219,11 @@
 **Thoughts**: I'm confused
 
 **Link(s) to work**: Nothing...
+
+### Day 28: March 12, 2020
+
+**Today I finished a CRUD Application made with VueJS! :D
+
+**Thoughts**: I'm confused
+
+**Link(s) to work**: Nothing...
