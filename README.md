@@ -17,7 +17,7 @@ February 15th, 2020.
 * Portfolio - I will created it :D
 
 ## Current
-**| DAY 28 |**
+**| DAY 28 |***
 
 Today I finished a CRUD Application made with VueJS! :D
 
